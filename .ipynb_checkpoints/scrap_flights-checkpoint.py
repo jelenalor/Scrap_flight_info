@@ -25,9 +25,9 @@ from datetime import timedelta
 # Command Line Parser
 
 parser = OptionParser()
-parser.add_option("-n", "--numRuns", dest="num",
+parser.add_option("-n", "--numRuns", type="int", dest="num",
                   help="number of runs")
-parser.add_option("-t", "--timeSleep", dest="time",
+parser.add_option("-t", "--timeSleep", type="int", dest="time",
                   help="time to sleep between runs (in seconds)")
 
 (options, args) = parser.parse_args()
