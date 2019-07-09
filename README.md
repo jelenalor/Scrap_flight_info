@@ -1,8 +1,8 @@
 # Scrap_flight_info
  *Code to scrap flights info*
  
- <br>
-*A big thank you for tutorial*:  https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli 
+<br>
+A big thank you for tutorial:  https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli 
 <br>
 The code below uses the logic as per tutorial
 But is adjusted to reflect my own needs
@@ -15,7 +15,7 @@ departing the day after the programme is run and returning a week after the depa
 I run the program few times a day to build up the time series data about flight prices.
 
 <br>
-Before running the code, set the folder called *flights_data* in your file directory for files to get saved there <br>
+Before running the code, set the folder called 'flights_data' in your file directory for files to get saved there <br>
 
 **To run:** <br>
 
