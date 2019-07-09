@@ -2,19 +2,26 @@
  Code to scrap flights info
  
  
-My code to scrap flight prices and details
+*A big thank you for tutorial: https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli*
+*The code below uses the logic as per tutorial*
+*But is adjusted to reflect my own needs*
  
-Currently set up to get data for return flights from flights from New York to London 
-departing the day after the programme is run and returning a week after departure.
+<br> 
+<br> 
 
- 
-I run the program few times a day to build up the time series data about flight prices
+The code currently is set up to get data for return flights from New York to London 
+departing the day after the programme is run and returning a week after the departure.
 
-To run:
+I run the program few times a day to build up the time series data about flight prices.
 
-python scrap_flights.py -n 4 -t 10800
 
-n -> number of runs
-t -> time between runs in seconds
-for example, the code above will scrap the prices every 3 hours for 4 times
+**To run:** <br>
+
+*python scrap_flights.py -n 4 -t 10800*
+
+<br>
+Where: <br>
+n -> number of runs <br>
+t -> time between runs in seconds <br>
+for example, the code above will scrap the prices every 3 hours for 4 times <br>
 
