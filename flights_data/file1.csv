@@ -1,0 +1,111 @@
+departure_time,arrival_time,airline,duration,stops,layovers,price(2019-7-8---12:47)
+11:25am,11:20pm,Norwegian Air UK,6h 55m,(Nonstop),"4h 5m in DUS
+Layover 4h 5m in DUS",$990
+10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"6h 30m in DUS
+Layover 6h 30m in DUS",['$990']
+11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"4h 50m in DUS
+Layover 4h 50m in DUS",['$990']
+10:00pm,4:25pm,Eurowings,13h 25m,(1 stop),"4h 59m in YOW
+Layover 4h 59m in YOW","['$1,068']"
+10:00pm,6:50pm,Eurowings,15h 50m,(1 stop),"5h 40m in ZRH
+Layover 5h 40m in ZRH","['$1,068']"
+4:35pm,11:30am,Eurowings,13h 55m,(1 stop),"2h 5m in BRU
+Layover 2h 5m in BRU","['$1,089']"
+12:15pm,6:30am,Air Canada,13h 15m,(1 stop),"4h 40m in VIE
+Layover 4h 40m in VIE","['$1,131']"
+11:00pm,11:10am,Delta,7h 10m,(Nonstop),"3h 10m in FRA
+Layover 3h 10m in FRA","['$1,145']"
+7:30pm,7:50am,Delta,7h 20m,(Nonstop),"3h 15m in MAD
+Layover 3h 15m in MAD","['$1,145']"
+9:55pm,5:55pm,Swiss International Air Lines,15h 0m,(1 stop),"1h 5m in DUB
+Layover 1h 5m in DUB","['$1,147']"
+9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"19h 50m in MAD
+Layover 19h 50m in MAD","['$1,153']"
+10:00pm,10:15am,Virgin Atlantic,7h 15m,(Nonstop),"11h 50m in YYZ
+Layover 11h 50m in YYZ","['$1,153']"
+7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"5h in BEG
+Layover 5h in BEG","['$1,153']"
+6:15pm,10:15am,Brussels Airlines,11h 0m,(1 stop),"2h 5m in IAD
+Layover 2h 5m in IAD","['$1,153']"
+5:40pm,2:20pm,Austrian Airlines,15h 40m,(1 stop),"20h in LIS
+Layover 20h in LIS","['$1,162']"
+9:55pm,3:40pm,Lufthansa,12h 45m,(1 stop),"1h 35m in DUB
+Layover 1h 35m in DUB","['$1,166']"
+11:00pm,11:10am,Air France,7h 10m,(Nonstop),"4h in HEL
+Layover 4h in HEL","['$1,167']"
+11:00pm,11:10am,KLM,7h 10m,(Nonstop),"9h 10m in BUD
+Layover 9h 10m in BUD","['$1,167']"
+10:05pm,4:20pm,Air Europa,13h 15m,(1 stop),"3h 20m in CMN
+Layover 3h 20m in CMN","['$1,174']"
+8:50pm,11:10am,Aer Lingus,9h 20m,(1 stop),"1h 50m in KEF
+Layover 1h 50m in KEF","['$1,217']"
+10:05pm,8:55am,Air Europa,29h 50m,(1 stop),"1h 5m in IST
+Layover 1h 5m in IST","['$1,221']"
+7:30am,9:15am,WestJet,20h 45m,(1 stop),"1h 50m in CPH
+Layover 1h 50m in CPH","['$1,228']"
+2:35pm,12:30pm,Air Serbia,16h 55m,(1 stop),"12h 6m in CMN
+Layover 12h 6m in CMN","['$1,237']"
+7:00pm,7:10am,United,7h 10m,(Nonstop),"13h 45m in SVO
+Layover 13h 45m in SVO","['$1,250']"
+10:00pm,10:10am,United,7h 10m,(Nonstop),"3h in WAW
+Layover 3h in WAW","['$1,250']"
+6:00pm,6:20am,United,7h 20m,(Nonstop),"9h 2m in BOS
+Layover 9h 2m in BOS","['$1,250']"
+9:00pm,9:20am,United,7h 20m,(Nonstop),"1h 16m in YUL
+Layover 1h 16m in YUL","['$1,250']"
+2:45pm,6:45am,United,11h 0m,(1 stop),"45m in MAD
+Layover 45m in MAD","['$1,255']"
+11:00pm,9:40am,TAP Portugal,29h 40m,(1 stop),"1h 15m in ZRH
+Layover 1h 15m in ZRH","['$1,325']"
+5:20pm,8:15am,Aer Lingus,9h 55m,(1 stop),BOS - CDG,"['$1,339']"
+7:55am,7:45pm,British Airways,6h 50m,(Nonstop),"1h 35m in FRA
+Layover 1h 35m in FRA","['$1,352']"
+10:20am,10:10pm,British Airways,6h 50m,(Nonstop),"1h 30m in HEL
+Layover 1h 30m in HEL","['$1,352']"
+10:00pm,10:00am,British Airways,7h 0m,(Nonstop),"5h 10m in FCO
+Layover 5h 10m in FCO","['$1,352']"
+9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"4h 59m in YOW
+Layover 4h 59m in YOW","['$1,352']"
+11:00pm,11:05am,British Airways,7h 5m,(Nonstop),"2h 5m in IAD
+Layover 2h 5m in IAD","['$1,352']"
+8:10pm,8:20am,British Airways,7h 10m,(Nonstop),,"['$1,352']"
+7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),,"['$1,360']"
+10:20am,10:10pm,American Airlines,6h 50m,(Nonstop),,"['$1,360']"
+10:00pm,10:00am,Iberia,7h 0m,(Nonstop),,"['$1,360']"
+6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),,"['$1,360']"
+10:40pm,10:50am,American Airlines,7h 10m,(Nonstop),,"['$1,360']"
+7:25pm,7:40am,American Airlines,7h 15m,(Nonstop),,"['$1,360']"
+7:05pm,3:15pm,Finnair,15h 10m,(1 stop),,"['$1,381']"
+8:15am,8:10pm,Virgin Atlantic,6h 55m,(Nonstop),,"['$1,410']"
+8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),,"['$1,410']"
+5:30pm,7:00pm,LOT-Polish Airlines,20h 30m,(1 stop),,"['$1,425']"
+8:55pm,3:20pm,Royal Air Maroc,13h 25m,(1 stop),,"['$1,426']"
+8:25pm,11:45am,Icelandair,10h 20m,(1 stop),,"['$1,461']"
+7:05pm,2:50pm,Turkish Airlines,14h 45m,(1 stop),,"['$1,499']"
+11:30pm,4:00pm,SAS,11h 30m,(1 stop),,"['$1,506']"
+12:10pm,3:20pm,Royal Air Maroc,22h 10m,(1 stop),,"['$1,528']"
+8:30am,8:40pm,United,7h 10m,(Nonstop),,"['$1,559']"
+6:30pm,6:30am,British Airways,7h 0m,(Nonstop),,"['$1,671']"
+9:35pm,9:35am,British Airways,7h 0m,(Nonstop),,"['$1,671']"
+9:30pm,9:35am,British Airways,7h 5m,(Nonstop),,"['$1,671']"
+6:05pm,6:15am,British Airways,7h 10m,(Nonstop),,"['$1,671']"
+7:00pm,7:10am,British Airways,7h 10m,(Nonstop),,"['$1,671']"
+7:30pm,7:45am,British Airways,7h 15m,(Nonstop),,"['$1,671']"
+12:55am,9:30am,Aeroflot-Russian Airlines,27h 35m,(1 stop),,"['$1,796']"
+6:00pm,6:25am,Virgin Atlantic,7h 25m,(Nonstop),,"['$1,845']"
+10:00pm,5:20pm,LOT-Polish Airlines,14h 20m,(1 stop),,"['$1,929']"
+9:59pm,7:50pm,Virgin Atlantic,16h 51m,(1 stop),,"['$2,120']"
+10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),,"['$2,199']"
+8:05pm,10:25am,Air Canada,9h 20m,(1 stop),,"['$2,374']"
+8:50pm,12:15pm,Iberia,10h 25m,(1 stop),,"['$2,388']"
+8:15am,8:10pm,KLM,6h 55m,(Nonstop),,"['$2,388']"
+9:00pm,1:00pm,Swiss International Air Lines,11h 0m,(1 stop),,"['$2,408']"
+7:00pm,1:45pm,Air France,13h 45m,(2 stops),,"['$2,411']"
+6:00pm,9:40am,Lufthansa,10h 40m,(1 stop),,"['$2,426']"
+7:05pm,12:50pm,Finnair,12h 45m,(1 stop),,"['$2,528']"
+9:40pm,7:10pm,Alitalia,16h 30m,(1 stop),,"['$2,655']"
+6:25pm,6:50am,British Airways,7h 25m,(Nonstop),,"['$7,297']"
+10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),,"['$9,901']"
+12:15pm,6:30am,Air Canada,13h 15m,(1 stop),,"['$10,655']"
+2:45pm,6:45am,United,11h 0m,(1 stop),,"['$10,659']"
+10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),,

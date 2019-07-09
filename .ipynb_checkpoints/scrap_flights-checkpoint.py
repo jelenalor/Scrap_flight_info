@@ -187,13 +187,20 @@ if __name__ == '__main__':
             return_date_chooser(return_date.isoformat().split("-")[1], return_date.isoformat().split("-")[2][:2], return_date.isoformat().split("-")[0])
             search()
             compile_data()
+            # Time
+            now = datetime.datetime.now()
+            current_time = (str(now.hour) + ':' + str(now.minute))
+            next_run_time = now + timedelta(seconds = sleep_time)
+            runs_left = (runs - i - 1)
+            # Save file
             df.to_csv('flights_data\\%s%s_flights_%s_%s.csv' %("".join(dep.split()), "".join(arr.split()), date, ".".join(current_time.split(":"))), \
                       index = False)
 
             print("CSV file saved - %s" %datetime.datetime.now())
             browser.quit()
             if i < (runs-1):
-                print("Waiting for the next run...")
+                print("Waiting for the next run... at %s" %(str(next_run_time.hour) + ':' + str(next_run_time.minute)))
+                print("Runs left %s" %runs_left)
                 time.sleep(sleep_time)
             else:
                 print("Complete for today!")
