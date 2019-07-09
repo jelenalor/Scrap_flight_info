@@ -2,9 +2,10 @@
  *Code to scrap flights info*
  
  <br>
-*A big thank you for tutorial: https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli*
-*The code below uses the logic as per tutorial*
-*But is adjusted to reflect my own needs*
+*A big thank you for tutorial*:  https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli 
+<br>
+The code below uses the logic as per tutorial
+But is adjusted to reflect my own needs
  
 <br> 
 
