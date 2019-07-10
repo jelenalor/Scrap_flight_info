@@ -19,7 +19,7 @@ from datetime import timedelta
 #
 # A big thank you for tutorial: https://dzone.com/articles/make-python-surf-the-web-for-you-and-send-best-fli
 # The code below uses the logic as per tutorial
-# Bus is adjusted to reflect my own needs
+# But is adjusted to reflect my own needs
 #
 
 # Command Line Parser
@@ -187,9 +187,11 @@ if __name__ == '__main__':
             return_date_chooser(return_date.isoformat().split("-")[1], return_date.isoformat().split("-")[2][:2], return_date.isoformat().split("-")[0])
             search()
             compile_data()
-            # Time
+            # Time -> need to update for file name, because sometimes files run on the next day etc.
             now = datetime.datetime.now()
             current_time = (str(now.hour) + ':' + str(now.minute))
+            current_date = (str(now.year) + '-' + str(now.month) + '-' + str(now.day))
+            date = "".join(current_date.split("-"))
             next_run_time = now + timedelta(seconds = sleep_time)
             runs_left = (runs - i - 1)
             # Save file
