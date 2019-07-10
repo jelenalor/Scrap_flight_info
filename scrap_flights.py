@@ -172,7 +172,7 @@ if __name__ == '__main__':
     for i in range(runs):   
         try:
             print("Scrapping began ...")
-            browser = webdriver.Chrome(executable_path=r"C:\Users\kabachok\Documents\GitHUB\flights_data\chromedriver")
+            browser = webdriver.Chrome(executable_path=r"flights_data\chromedriver")
             link = 'https://www.expedia.com/'
             browser.get(link)
             time.sleep(5)
