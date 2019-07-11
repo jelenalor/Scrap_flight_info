@@ -21,6 +21,10 @@ Before running the code, set the folder called 'flights_data' in your file direc
 **Dependencies** 
 <br>
 Selenium
+Chromedriver <br>
+(for your machine windows, linux, mac). Can be downloaded in:
+http://chromedriver.chromium.org/ <br>
+
 
 
 <br>
