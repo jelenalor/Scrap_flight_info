@@ -133,10 +133,14 @@ def compile_data():
     # Open all details tabs, ensure there is enough sleep time
     for i in range(len(details)-1):
         details[i].click()
-        if i != 30 or i != 40:
+        if i != 20 or i != 30:
             time.sleep(2)
+        elif i == 46:
+            break
         else:
             time.sleep(10)  
+            
+        
             
     print("Details are open.. Collecting data")
     for i in range(len(details)-1): 
@@ -172,7 +176,7 @@ if __name__ == '__main__':
     for i in range(runs):   
         try:
             print("Scrapping began ...")
-            browser = webdriver.Chrome(executable_path=r"flights_data\chromedriver")
+            browser = webdriver.Chrome(executable_path=r"flights_data/chromedriver")
             link = 'https://www.expedia.com/'
             browser.get(link)
             time.sleep(5)
@@ -195,7 +199,7 @@ if __name__ == '__main__':
             next_run_time = now + timedelta(seconds = sleep_time)
             runs_left = (runs - i - 1)
             # Save file
-            df.to_csv('flights_data\\%s%s_flights_%s_%s.csv' %("".join(dep.split()), "".join(arr.split()), date, ".".join(current_time.split(":"))), \
+            df.to_csv(r'flights_data%s/%s_flights_%s_%s.csv' %("".join(dep.split()), "".join(arr.split()), date, ".".join(current_time.split(":"))), \
                       index = False)
 
             print("CSV file saved - %s" %datetime.datetime.now())
