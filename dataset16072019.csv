@@ -1,0 +1,901 @@
+current_date,current_time,departure_time,arrival_time,airline,duration,stops,price,dep_airport,arr_airport,operated_by,other
+2019-7-15,17:49,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,17:49,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,17:49,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,17:49,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,372",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,17:49,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,17:49,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,17:49,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,17:49,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,17:49,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,17:49,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,17:49,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,17:49,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,17:49,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,17:49,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,17:49,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,17:49,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,17:49,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,17:49,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,17:49,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,17:49,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,17:49,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,17:49,6:00pm,6:25am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,17:49,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,17:49,10:00pm,10:00am,Air France,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,17:49,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,17:49,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,17:49,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,17:49,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,17:49,11:00pm,11:10am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,17:49,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,17:49,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,17:49,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,17:49,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,17:49,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,17:49,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,17:49,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,17:49,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,17:49,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,17:49,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,17:49,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,17:49,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,17:49,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,17:49,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,17:49,7:25pm,7:40am,American Airlines,7h 0m,(Nonstop),"$1,803",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,17:49,10:00pm,10:00am,United,7h 10m,(Nonstop),"$2,201",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-16,2:40,11:00pm,11:10am,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-16,2:40,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-16,2:40,10:00pm,10:00am,Delta,7h 10m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-16,2:40,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-16,2:40,7:30pm,7:50am,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200
+2019-7-16,2:40,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-16,2:40,10:00pm,10:05am,Virgin Atlantic,7h 10m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-16,2:40,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-16,2:40,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-16,2:40,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-16,2:40,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-16,2:40,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-16,2:40,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-16,2:40,6:00pm,6:25am,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-16,2:40,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,8:15am,8:10pm,Air France,7h 10m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,11:00pm,11:10am,KLM,7h 10m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200
+2019-7-16,2:40,11:00pm,11:10am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 6103 operated by Delta,Airbus A330-200
+2019-7-16,2:40,8:30pm,8:45am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4830 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,8:30pm,8:45am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9924 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,9:00pm,9:15am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4827 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,9:00pm,9:15am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9664 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,10:00pm,10:15am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4828 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,10:00pm,10:15am,Air France,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 6759 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,7:00pm,7:20am,Air France,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9917 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,7:30pm,7:50am,KLM,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 8991 operated by Delta,Airbus A330-200
+2019-7-16,2:40,7:30pm,7:50am,Air France,7h 25m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 6101 operated by Delta,Airbus A330-200
+2019-7-16,2:40,6:00pm,6:25am,KLM,7h 25m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 6753 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,6:00pm,6:25am,Delta,6h 55m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4826 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,8:15am,8:10pm,Delta,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,8:30pm,8:45am,Delta,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,2:40,10:00pm,10:15am,Delta,7h 20m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,7:00pm,7:20am,Delta,7h 25m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4412 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,6:00pm,6:25am,KLM,7h 5m,(Nonstop),"$1,293",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4373 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,10:00pm,10:05am,Air France,7h 5m,(Nonstop),"$1,293",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,10:00pm,10:05am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,2:40,7:00pm,7:10am,Lufthansa,7h 10m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-16,2:40,10:00pm,10:10am,British Airways,7h 0m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-16,2:40,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-16,2:40,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-16,2:40,10:00pm,10:00am,Finnair,6h 50m,(Nonstop),"$1,711",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777
+2019-7-16,2:40,7:55am,7:45pm,Austrian Airlines,7h 10m,(Nonstop),"$1,870",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400
+2019-7-16,2:40,10:00pm,10:10am,British Airways,6h 50m,(Nonstop),"$2,435",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-16,2:40,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400
+2019-7-15,13:21,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,13:21,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,13:21,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,13:21,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,13:21,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,13:21,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,13:21,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,13:21,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,13:21,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,13:21,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,13:21,10:00pm,10:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,13:21,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,13:21,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,13:21,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,13:21,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,13:21,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,13:21,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,13:21,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,13:21,6:00pm,6:25am,Delta,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,13:21,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,13:21,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,13:21,7:30pm,7:50am,Air France,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,13:21,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,13:21,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,13:21,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,308",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,13:21,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,308",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,13:21,11:00pm,11:10am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,13:21,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,13:21,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,13:21,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,13:21,10:20am,10:10pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,13:21,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,13:21,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,13:21,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),American Airlines 6151 operated by British Airways,Boeing 787-8 | Meal
+2019-7-15,13:21,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,13:21,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,13:21,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,13:21,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,13:21,6:05pm,6:15am,American Airlines,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,13:21,6:10pm,6:20am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,13:21,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,13:21,8:10pm,8:20am,American Airlines,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,13:21,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,13:21,7:25pm,7:40am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,13:21,7:30pm,7:45am,United,7h 10m,(Nonstop),"$1,954",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-16,3:49,11:00pm,11:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,008",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-16,3:49,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,008",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-16,3:49,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,054",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-16,3:49,10:00pm,10:00am,Delta,7h 10m,(Nonstop),"$1,270",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-16,3:49,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,270",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-16,3:49,7:30pm,7:50am,KLM,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-16,3:49,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,3:49,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,3:49,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,294",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,3:49,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,294",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,3:49,11:00pm,11:10am,KLM,7h 15m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-16,3:49,10:00pm,10:15am,Air France,7h 15m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4828 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,3:49,10:00pm,10:15am,Virgin Atlantic,6h 55m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 6759 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,3:49,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-16,3:49,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,3:49,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,410",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-16,3:49,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-16,3:49,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-16,3:49,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-16,3:49,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,410",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-16,3:49,6:00pm,6:25am,United,7h 10m,(Nonstop),"$1,978",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-16,3:49,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,978",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-16,3:49,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,978",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-16,3:49,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,978",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-16,3:49,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,993",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-16,3:49,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,993",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-16,3:49,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,993",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-16,3:49,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,993",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-16,3:49,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,993",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-16,3:49,6:00pm,6:20am,British Airways,6h 50m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-16,3:49,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-16,3:49,10:20am,10:10pm,British Airways,7h 0m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-16,3:49,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-16,3:49,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-16,3:49,10:00pm,10:00am,British Airways,7h 5m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-16,3:49,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-16,3:49,9:30pm,9:35am,Delta,7h 5m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-16,3:49,10:00pm,10:05am,British Airways,7h 5m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,3:49,11:00pm,11:05am,Iberia,7h 10m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-16,3:49,6:05pm,6:15am,Finnair,7h 10m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),Iberia 7381 operated by British Airways,Boeing 777
+2019-7-16,3:49,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),Finnair 5484 operated by British Airways,Boeing 777 | Meal
+2019-7-16,3:49,6:05pm,6:15am,American Airlines,7h 10m,(Nonstop),"$2,437",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-16,3:49,6:10pm,6:20am,British Airways,7h 10m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-16,3:49,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-16,3:49,8:10pm,8:20am,American Airlines,7h 10m,(Nonstop),"$2,437",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,18:53,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,18:53,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,18:53,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,18:53,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,18:53,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,18:53,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,18:53,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,18:53,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,18:53,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,18:53,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,18:53,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,18:53,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,18:53,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,18:53,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,18:53,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,18:53,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,18:53,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,18:53,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,18:53,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,18:53,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,18:53,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,18:53,6:00pm,6:25am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,18:53,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,18:53,10:00pm,10:00am,Air France,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,18:53,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,18:53,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,18:53,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,18:53,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,18:53,11:00pm,11:10am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,18:53,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,18:53,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,18:53,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,18:53,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,18:53,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,18:53,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,18:53,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,18:53,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,18:53,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,18:53,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,18:53,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,18:53,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,18:53,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,18:53,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,18:53,7:25pm,7:40am,American Airlines,7h 0m,(Nonstop),"$1,803",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,18:53,10:00pm,10:00am,United,7h 10m,(Nonstop),"$2,100",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,21:7,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,21:7,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,21:7,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,21:7,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,372",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,21:7,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,21:7,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,21:7,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,372",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,21:7,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,21:7,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,21:7,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,21:7,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,382",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,21:7,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,21:7,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,21:7,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,21:7,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,21:7,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,21:7,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,21:7,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,21:7,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,21:7,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,21:7,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,21:7,6:00pm,6:25am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,21:7,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,21:7,10:00pm,10:00am,Air France,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,21:7,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,21:7,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,21:7,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,21:7,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,21:7,11:00pm,11:10am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,21:7,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,21:7,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,21:7,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,21:7,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,21:7,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,21:7,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,21:7,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,21:7,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,21:7,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,21:7,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,21:7,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,21:7,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,21:7,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,21:7,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,21:7,7:25pm,7:40am,American Airlines,7h 0m,(Nonstop),"$1,803",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,21:7,10:00pm,10:00am,United,7h 10m,(Nonstop),"$2,347",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,16:40,7:00pm,7:10am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,16:40,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-15,16:40,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,175",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-15,16:40,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,16:40,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300
+2019-7-15,16:40,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300
+2019-7-15,16:40,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300
+2019-7-15,16:40,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300
+2019-7-15,16:40,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-15,16:40,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-15,16:40,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300
+2019-7-15,16:40,9:00pm,9:20am,Lufthansa,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300
+2019-7-15,16:40,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,327",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300
+2019-7-15,16:40,7:00pm,7:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,327",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7796 operated by United,Boeing 767-300
+2019-7-15,16:40,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300
+2019-7-15,16:40,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-15,16:40,8:15am,8:10pm,Delta,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,16:40,10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,16:40,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-15,16:40,11:00pm,11:10am,Virgin Atlantic,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-15,16:40,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-15,16:40,8:30pm,8:45am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-15,16:40,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,16:40,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-15,16:40,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,16:40,10:00pm,10:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-15,16:40,10:00pm,10:15am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,16:40,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-15,16:40,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,16:40,10:00pm,10:00am,KLM,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777
+2019-7-15,16:40,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,16:40,8:15am,8:10pm,Finnair,6h 50m,(Nonstop),"$1,711",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,16:40,7:55am,7:45pm,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400
+2019-7-15,16:40,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-15,16:40,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-15,16:40,6:00pm,6:25am,British Airways,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-15,16:40,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400
+2019-7-15,16:40,7:55am,7:45pm,Iberia,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6143 operated by British Airways,Boeing 747-400
+2019-7-15,16:40,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7377 operated by British Airways,Boeing 747-400
+2019-7-15,16:40,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200
+2019-7-15,16:40,10:20am,10:10pm,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,16:40,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7350 operated by British Airways,Boeing 747-400
+2019-7-15,16:40,6:30pm,6:30am,Finnair,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400
+2019-7-15,16:40,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5512 operated by British Airways,Boeing 747-400
+2019-7-15,16:40,6:30pm,6:30am,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400
+2019-7-15,0:53,6:00pm,6:20am,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,0:53,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,0:53,12:45pm,12:45am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7014 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,0:53,10:10pm,10:10am,United,7h 20m,(Nonstop),"$1,372",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,0:53,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,380",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,0:53,6:00pm,6:20am,United,7h 10m,(Nonstop),"$1,497",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,0:53,8:30am,8:40pm,United,7h 10m,(Nonstop),"$1,497",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,0:53,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,497",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,0:53,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,497",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,0:53,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,506",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,0:53,8:30am,8:40pm,Lufthansa,7h 10m,(Nonstop),"$1,506",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7792 operated by United,Boeing 767 | Breakfast
+2019-7-15,0:53,8:30am,8:40pm,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7624 operated by United,Boeing 767 | Breakfast
+2019-7-15,0:53,11:00pm,11:10am,Virgin Atlantic,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,0:53,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,0:53,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A330-300 | Dinner
+2019-7-15,0:53,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,0:53,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A340-600 | Dinner
+2019-7-15,0:53,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,0:53,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,0:53,6:00pm,6:25am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,0:53,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,0:53,10:00pm,10:00am,British Airways,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,0:53,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,0:53,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,0:53,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 747-400 | Meal
+2019-7-15,0:53,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,0:53,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,0:53,7:30pm,7:45am,Air France,7h 10m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 777 | Meal
+2019-7-15,0:53,11:00pm,11:10am,KLM,7h 10m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,0:53,11:00pm,11:10am,American Airlines,7h 0m,(Nonstop),"$1,640",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 6103 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,0:53,10:00pm,10:00am,Virgin Atlantic,6h 55m,(Nonstop),"$1,665",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,0:53,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,665",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,0:53,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,665",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,0:53,10:00pm,10:05am,British Airways,6h 50m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,0:53,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,0:53,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,0:53,9:35pm,9:35am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 777 | Meal
+2019-7-15,0:53,6:05pm,6:15am,American Airlines,6h 50m,(Nonstop),"$1,684",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,0:53,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,0:53,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,0:53,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,0:53,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,0:53,7:25pm,7:40am,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,0:53,7:55am,7:45pm,Finnair,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6143 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,0:53,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-16,0:26,8:15am,8:10pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-16,0:26,10:00pm,10:00am,Delta,6h 55m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-16,0:26,8:15am,8:10pm,Delta,7h 5m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,145",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,11:00pm,11:10am,Delta,7h 15m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-16,0:26,8:30pm,8:45am,Delta,7h 15m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,10:00pm,10:15am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4412 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,7:30pm,7:50am,Delta,7h 25m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200
+2019-7-16,0:26,6:00pm,6:25am,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4373 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-16,0:26,10:00pm,10:05am,Virgin Atlantic,7h 10m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-16,0:26,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-16,0:26,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-16,0:26,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-16,0:26,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-16,0:26,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-16,0:26,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-16,0:26,6:00pm,6:25am,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-16,0:26,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,8:15am,8:10pm,Air France,7h 10m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,11:00pm,11:10am,KLM,7h 10m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200
+2019-7-16,0:26,11:00pm,11:10am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 6103 operated by Delta,Airbus A330-200
+2019-7-16,0:26,8:30pm,8:45am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9924 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,8:30pm,8:45am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4830 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,9:00pm,9:15am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9664 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,9:00pm,9:15am,Air France,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4827 operated by Virgin Atlantic,Airbus A340-600
+2019-7-16,0:26,10:00pm,10:15am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 6759 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,10:00pm,10:15am,Air France,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4828 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,7:00pm,7:20am,KLM,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9917 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,7:30pm,7:50am,Air France,7h 20m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 6101 operated by Delta,Airbus A330-200
+2019-7-16,0:26,7:30pm,7:50am,Air France,7h 25m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 8991 operated by Delta,Airbus A330-200
+2019-7-16,0:26,6:00pm,6:25am,KLM,7h 25m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 6753 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,6:00pm,6:25am,KLM,7h 5m,(Nonstop),"$1,293",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4826 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,10:00pm,10:05am,Air France,7h 5m,(Nonstop),"$1,293",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,10:00pm,10:05am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300
+2019-7-16,0:26,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-16,0:26,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300
+2019-7-16,0:26,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300
+2019-7-16,0:26,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300
+2019-7-16,0:26,10:00pm,10:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,450",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-16,0:26,10:00pm,10:10am,British Airways,7h 0m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-16,0:26,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-15,19:58,7:00pm,7:10am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,19:58,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-15,19:58,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,422",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-15,19:58,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,19:58,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300
+2019-7-15,19:58,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300
+2019-7-15,19:58,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300
+2019-7-15,19:58,7:00pm,7:10am,Lufthansa,7h 10m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300
+2019-7-15,19:58,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-15,19:58,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300
+2019-7-15,19:58,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,450",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300
+2019-7-15,19:58,10:00pm,10:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,450",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-15,19:58,9:00pm,9:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300
+2019-7-15,19:58,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-15,19:58,8:15am,8:10pm,Delta,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,19:58,10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,19:58,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-15,19:58,11:00pm,11:10am,Virgin Atlantic,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-15,19:58,11:00pm,11:10am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-15,19:58,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,19:58,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-15,19:58,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-15,19:58,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,19:58,10:00pm,10:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,19:58,10:00pm,10:15am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-15,19:58,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-15,19:58,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,19:58,10:00pm,10:00am,KLM,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777
+2019-7-15,19:58,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,19:58,8:15am,8:10pm,Finnair,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,19:58,7:55am,7:45pm,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-15,19:58,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-15,19:58,6:00pm,6:25am,British Airways,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-15,19:58,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400
+2019-7-15,19:58,7:55am,7:45pm,Iberia,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6143 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7377 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200
+2019-7-15,19:58,10:20am,10:10pm,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,19:58,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7350 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,6:30pm,6:30am,Finnair,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400
+2019-7-15,19:58,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5512 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,6:30pm,6:30am,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400
+2019-7-15,19:58,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$2,435",Liberty Intl. (EWR),Heathrow (LHR),Iberia 7383 operated by British Airways,Boeing 787-8
+2019-7-15,19:58,9:35pm,9:35am,Finnair,7h 0m,(Nonstop),"$2,435",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8
+2019-7-15,10:8,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,10:8,11:00pm,11:00am,Lufthansa,7h 10m,(Nonstop),"$1,020",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,10:8,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,9:00pm,9:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,9:00pm,9:20am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-15,10:8,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,10:8,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,10:8,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,10:8,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,10:8,9:00pm,9:20am,Delta,6h 55m,(Nonstop),"$1,145",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,10:8,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,10:8,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,10:8,7:30pm,7:50am,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,10:8,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,10:8,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,10:8,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,10:8,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,10:8,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,10:8,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,10:8,6:00pm,6:25am,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,10:8,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,10:8,8:15am,8:10pm,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,10:8,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,10:8,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,559",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,10:8,8:30am,8:40pm,American Airlines,7h 0m,(Nonstop),"$1,640",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,10:8,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,10:8,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,10:8,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,10:8,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,10:8,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,10:8,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,10:8,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,10:8,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,10:8,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,10:8,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,10:8,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,10:8,10:20am,10:10pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,10:8,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,10:8,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,10:8,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,10:8,7:25pm,7:40am,Lufthansa,7h 10m,(Nonstop),"$2,342",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,23:21,11:25am,11:20pm,Norwegian Air UK,6h 55m,(Nonstop),$947,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,23:21,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),$947,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,23:21,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),$992,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,23:21,10:00pm,10:00am,Virgin Atlantic,6h 55m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,23:21,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,23:21,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,23:21,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,23:21,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,23:21,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,23:21,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,23:21,6:00pm,6:25am,Delta,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,23:21,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,23:21,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,23:21,7:30pm,7:50am,Air France,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,23:21,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,23:21,8:15am,8:10pm,Air France,7h 10m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,23:21,11:00pm,11:10am,KLM,7h 15m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,23:21,10:00pm,10:15am,United,7h 10m,(Nonstop),"$1,422",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4828 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,23:21,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,23:21,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,23:21,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,23:21,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,23:21,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,23:21,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,23:21,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,23:21,9:00pm,9:20am,British Airways,7h 0m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-15,23:21,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,23:21,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,23:21,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,23:21,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,23:21,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,23:21,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,23:21,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,23:21,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,23:21,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,23:21,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,23:21,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,23:21,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,23:21,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,23:21,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,23:21,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,23:21,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,23:21,7:25pm,7:40am,American Airlines,7h 0m,(Nonstop),"$1,803",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,23:21,10:00pm,10:00am,United,7h 10m,(Nonstop),"$2,372",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,23:21,8:30am,8:40pm,British Airways,7h 0m,(Nonstop),"$5,515",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,7:59,10:00pm,10:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,7:59,11:00pm,11:00am,Austrian Airlines,7h 10m,(Nonstop),"$1,020",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,7:59,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,9:00pm,9:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,9:00pm,9:20am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-15,7:59,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,7:59,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,7:59,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,7:59,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,7:59,9:00pm,9:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,7:59,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,7:59,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,7:59,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,7:59,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,7:59,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,7:59,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,7:59,6:00pm,6:25am,Delta,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,7:59,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,7:59,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,7:59,7:30pm,7:50am,Air France,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,7:59,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,7:59,8:15am,8:10pm,KLM,7h 5m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,7:59,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,308",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,7:59,11:00pm,11:10am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,7:59,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,7:59,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,559",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,7:59,8:30am,8:40pm,British Airways,6h 50m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,7:59,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,7:59,10:20am,10:10pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,7:59,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,7:59,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,7:59,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),American Airlines 6151 operated by British Airways,Boeing 787-8 | Meal
+2019-7-15,7:59,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,7:59,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,7:59,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,7:59,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,7:59,6:05pm,6:15am,American Airlines,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,7:59,6:10pm,6:20am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,7:59,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,7:59,8:10pm,8:20am,American Airlines,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,7:59,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-16,1:35,11:00pm,11:10am,Norwegian Air UK,6h 55m,(Nonstop),$892,John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-16,1:35,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),$892,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-16,1:35,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),$937,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-16,1:35,10:00pm,10:00am,Delta,7h 10m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-16,1:35,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-16,1:35,7:30pm,7:50am,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-16,1:35,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-16,1:35,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-16,1:35,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-16,1:35,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-16,1:35,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-16,1:35,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-16,1:35,6:00pm,6:25am,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-16,1:35,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,1:35,8:15am,8:10pm,Air France,7h 10m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,1:35,11:00pm,11:10am,KLM,7h 15m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-16,1:35,10:00pm,10:15am,Delta,6h 55m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4828 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-16,1:35,8:15am,8:10pm,United,7h 10m,(Nonstop),"$1,422",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-16,1:35,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-16,1:35,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-16,1:35,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-16,1:35,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-16,1:35,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-16,1:35,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-16,1:35,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,432",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-16,1:35,9:00pm,9:20am,British Airways,7h 0m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-16,1:35,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-16,1:35,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-16,1:35,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-16,1:35,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-16,1:35,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-16,1:35,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-16,1:35,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-16,1:35,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-16,1:35,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-16,1:35,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-16,1:35,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-16,1:35,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-16,1:35,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-16,1:35,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-16,1:35,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-16,1:35,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-16,1:35,7:25pm,7:40am,American Airlines,7h 0m,(Nonstop),"$1,803",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-16,1:35,10:00pm,10:00am,British Airways,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-16,1:35,10:00pm,10:00am,Delta,7h 5m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,12:16,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,12:16,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,12:16,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,12:16,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,12:16,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,12:16,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,12:16,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,12:16,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,12:16,10:00pm,10:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,12:16,6:00pm,6:20am,Lufthansa,7h 10m,(Nonstop),"$1,242",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,12:16,7:00pm,7:10am,Lufthansa,7h 10m,(Nonstop),"$1,242",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,12:16,10:00pm,10:10am,Virgin Atlantic,6h 55m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,12:16,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,12:16,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,12:16,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,12:16,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,12:16,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,12:16,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,285",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,12:16,6:00pm,6:25am,Delta,6h 55m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,12:16,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,12:16,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,294",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,12:16,7:30pm,7:50am,Air France,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,12:16,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,12:16,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,308",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,12:16,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,308",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,12:16,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,308",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,12:16,11:00pm,11:10am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,12:16,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,12:16,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,12:16,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,12:16,10:20am,10:10pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,12:16,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,12:16,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,12:16,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),American Airlines 6151 operated by British Airways,Boeing 787-8 | Meal
+2019-7-15,12:16,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,12:16,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,12:16,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,12:16,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,12:16,6:05pm,6:15am,American Airlines,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,12:16,6:10pm,6:20am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,12:16,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,12:16,8:10pm,8:20am,American Airlines,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,12:16,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,12:16,7:25pm,7:40am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,12:16,7:30pm,7:45am,United,7h 10m,(Nonstop),"$1,954",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,11:12,7:00pm,7:10am,United,7h 10m,(Nonstop),$905,Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,11:12,7:00pm,7:10am,United,7h 10m,(Nonstop),$905,Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,11:12,10:00pm,10:10am,United,7h 20m,(Nonstop),$905,Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,11:12,6:00pm,6:20am,United,7h 20m,(Nonstop),$905,Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,11:12,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,11:12,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,9:00pm,9:20am,Austrian Airlines,7h 20m,(Nonstop),$910,Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,9:00pm,9:20am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-15,11:12,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,11:12,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,11:12,10:00pm,10:00am,Delta,6h 55m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,11:12,8:15am,8:10pm,Delta,7h 10m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,11:12,11:00pm,11:10am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,11:12,7:30pm,7:50am,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,11:12,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,11:12,10:00pm,10:05am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,11:12,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,11:12,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,11:12,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,11:12,7:00pm,7:20am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,11:12,6:00pm,6:25am,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,11:12,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,11:12,8:15am,8:10pm,United,7h 10m,(Nonstop),"$1,339",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,11:12,8:30am,8:40pm,British Airways,7h 0m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,11:12,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,11:12,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,640",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,11:12,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,11:12,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,11:12,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,11:12,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,11:12,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,11:12,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,11:12,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,11:12,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,11:12,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,11:12,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,11:12,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,11:12,10:20am,10:10pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,11:12,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,11:12,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,11:12,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,9:3,11:25am,11:20pm,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,9:3,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,9:3,10:00pm,10:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,9:00pm,9:20am,Lufthansa,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,9:00pm,9:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,020",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,9:3,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,9:3,10:00pm,10:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,9:3,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,9:3,9:00pm,9:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,9:3,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,9:3,11:00pm,11:10am,Delta,7h 10m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,9:3,7:30pm,7:50am,Delta,7h 20m,(Nonstop),"$1,145",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,9:3,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,147",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,9:3,8:15am,8:10pm,Virgin Atlantic,6h 55m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,9:3,10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),"$1,153",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,9:3,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,9:3,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,9:3,10:00pm,10:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,9:3,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,9:3,6:00pm,6:25am,Virgin Atlantic,7h 25m,(Nonstop),"$1,153",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,9:3,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,9:3,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,167",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,9:3,10:00pm,10:00am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,9:3,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,9:3,8:30am,8:40pm,United,7h 10m,(Nonstop),"$1,559",Liberty Intl. (EWR),Heathrow (LHR),United 934,Boeing 767 | Breakfast
+2019-7-15,9:3,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,640",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,9:3,7:55am,7:45pm,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,9:3,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,9:3,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,9:3,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,9:3,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,9:3,11:00pm,11:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,9:3,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,9:3,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,9:3,8:10pm,8:20am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,9:3,7:30pm,7:45am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,9:3,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,9:3,10:20am,10:10pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,9:3,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,9:3,10:40pm,10:50am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,9:3,7:25pm,7:40am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
+2019-7-15,9:3,8:30am,8:40pm,Lufthansa,7h 10m,(Nonstop),"$2,342",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7624 operated by United,Boeing 767 | Breakfast
+2019-7-15,15:30,7:00pm,7:10am,Norwegian Air UK,7h 0m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,15:30,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-15,15:30,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,175",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-15,15:30,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,15:30,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300
+2019-7-15,15:30,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,175",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300
+2019-7-15,15:30,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300
+2019-7-15,15:30,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300
+2019-7-15,15:30,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-15,15:30,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-15,15:30,6:00pm,6:20am,Austrian Airlines,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300
+2019-7-15,15:30,9:00pm,9:20am,Lufthansa,7h 20m,(Nonstop),"$1,200",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300
+2019-7-15,15:30,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,327",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300
+2019-7-15,15:30,7:00pm,7:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,327",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7796 operated by United,Boeing 767-300
+2019-7-15,15:30,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300
+2019-7-15,15:30,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-15,15:30,8:15am,8:10pm,Delta,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,15:30,10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,15:30,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-15,15:30,11:00pm,11:10am,Virgin Atlantic,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-15,15:30,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-15,15:30,8:30pm,8:45am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-15,15:30,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,15:30,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-15,15:30,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,15:30,10:00pm,10:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-15,15:30,10:00pm,10:15am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,15:30,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-15,15:30,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,15:30,10:00pm,10:00am,KLM,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777
+2019-7-15,15:30,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,15:30,8:15am,8:10pm,Finnair,6h 50m,(Nonstop),"$1,711",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,15:30,7:55am,7:45pm,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400
+2019-7-15,15:30,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-15,15:30,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$2,383",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-15,15:30,6:00pm,6:25am,British Airways,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-15,15:30,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400
+2019-7-15,15:30,7:55am,7:45pm,Iberia,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6143 operated by British Airways,Boeing 747-400
+2019-7-15,15:30,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7377 operated by British Airways,Boeing 747-400
+2019-7-15,15:30,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200
+2019-7-15,15:30,10:20am,10:10pm,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,15:30,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7350 operated by British Airways,Boeing 747-400
+2019-7-15,15:30,6:30pm,6:30am,Finnair,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400
+2019-7-15,15:30,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5512 operated by British Airways,Boeing 747-400
+2019-7-15,15:30,6:30pm,6:30am,Iberia,7h 0m,(Nonstop),"$2,435",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,7:00pm,7:10am,Norwegian Air UK,7h 0m,(Nonstop),$892,Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,22:12,11:00pm,11:00am,Norwegian Air UK,7h 0m,(Nonstop),$937,John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9
+2019-7-15,22:12,10:00pm,10:00am,United,7h 10m,(Nonstop),"$1,422",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9
+2019-7-15,22:12,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300
+2019-7-15,22:12,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300
+2019-7-15,22:12,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,422",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300
+2019-7-15,22:12,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300
+2019-7-15,22:12,10:00pm,10:10am,Lufthansa,7h 20m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300
+2019-7-15,22:12,6:00pm,6:20am,Lufthansa,7h 20m,(Nonstop),"$1,439",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7628 operated by United,Boeing 767-300
+2019-7-15,22:12,9:00pm,9:20am,Austrian Airlines,7h 10m,(Nonstop),"$1,450",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7630 operated by United,Boeing 767-300
+2019-7-15,22:12,10:00pm,10:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,450",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300
+2019-7-15,22:12,9:00pm,9:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7800 operated by United,Boeing 767-300
+2019-7-15,22:12,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600
+2019-7-15,22:12,8:15am,8:10pm,Delta,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,22:12,10:00pm,10:05am,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Delta 4407 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,22:12,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300
+2019-7-15,22:12,11:00pm,11:10am,Virgin Atlantic,7h 10m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200
+2019-7-15,22:12,11:00pm,11:10am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4030 operated by Delta,Airbus A330-200
+2019-7-15,22:12,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4359 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,22:12,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600
+2019-7-15,22:12,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600
+2019-7-15,22:12,9:00pm,9:15am,Delta,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4375 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,22:12,10:00pm,10:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4377 operated by Virgin Atlantic,Airbus A330-300
+2019-7-15,22:12,10:00pm,10:15am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300
+2019-7-15,22:12,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777
+2019-7-15,22:12,10:00pm,10:00am,American Airlines,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,22:12,10:00pm,10:00am,KLM,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777
+2019-7-15,22:12,8:15am,8:10pm,Air France,6h 55m,(Nonstop),"$1,568",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,22:12,8:15am,8:10pm,Finnair,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600
+2019-7-15,22:12,7:55am,7:45pm,Virgin Atlantic,7h 20m,(Nonstop),"$2,270",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,7:00pm,7:20am,Virgin Atlantic,7h 20m,(Nonstop),"$2,270",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300
+2019-7-15,22:12,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$2,270",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4028 operated by Delta,Airbus A330-200
+2019-7-15,22:12,6:00pm,6:25am,British Airways,6h 50m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300
+2019-7-15,22:12,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400
+2019-7-15,22:12,7:55am,7:45pm,Iberia,6h 50m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6143 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7377 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,10:20am,10:10pm,Finnair,6h 50m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200
+2019-7-15,22:12,10:20am,10:10pm,Iberia,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 4036 operated by American Airlines,Boeing 777-200
+2019-7-15,22:12,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),Iberia 7350 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,6:30pm,6:30am,Finnair,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400
+2019-7-15,22:12,6:30pm,6:30am,American Airlines,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5512 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,6:30pm,6:30am,Iberia,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 6133 operated by British Airways,Boeing 747-400
+2019-7-15,22:12,9:35pm,9:35am,British Airways,7h 0m,(Nonstop),"$2,322",Liberty Intl. (EWR),Heathrow (LHR),Iberia 7383 operated by British Airways,Boeing 787-8
+2019-7-15,22:12,9:35pm,9:35am,Finnair,7h 0m,(Nonstop),"$2,322",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8
+2019-7-15,22:12,10:00pm,10:00am,British Airways,7h 0m,(Nonstop),"$2,322",John F. Kennedy Intl. (JFK),Gatwick (LGW),Finnair 5432 operated by British Airways,Boeing 777
+2019-7-15,14:25,7:00pm,7:10am,Norwegian Air UK,6h 55m,(Nonstop),"$1,006",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,14:25,11:25am,11:20pm,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7914 operated by Evelop Airlines,Airbus A330-300 | Food and beverage for purchase
+2019-7-15,14:25,10:00pm,10:00am,Norwegian Air UK,7h 0m,(Nonstop),"$1,051",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7018,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,14:25,11:00pm,11:00am,United,7h 10m,(Nonstop),"$1,125",John F. Kennedy Intl. (JFK),Gatwick (LGW),Norwegian Air UK 7016,BOEING 787-9 | Food and beverage for purchase
+2019-7-15,14:25,7:00pm,7:10am,United,7h 10m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 14,Boeing 767-300 | Dinner
+2019-7-15,14:25,10:00pm,10:10am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 940,Boeing 767-300 | Dinner
+2019-7-15,14:25,6:00pm,6:20am,United,7h 20m,(Nonstop),"$1,125",Liberty Intl. (EWR),Heathrow (LHR),United 110,Boeing 767-300 | Dinner
+2019-7-15,14:25,9:00pm,9:20am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),United 16,Boeing 767-300 | Dinner
+2019-7-15,14:25,7:00pm,7:10am,Austrian Airlines,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7626 operated by United,Boeing 767-300 | Dinner
+2019-7-15,14:25,10:00pm,10:10am,Lufthansa,7h 10m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7794 operated by United,Boeing 767-300 | Dinner
+2019-7-15,14:25,10:00pm,10:10am,Austrian Airlines,7h 20m,(Nonstop),"$1,132",Liberty Intl. (EWR),Heathrow (LHR),Lufthansa 7632 operated by United,Boeing 767-300 | Dinner
+2019-7-15,14:25,6:00pm,6:20am,Virgin Atlantic,6h 55m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Austrian Airlines 7798 operated by United,Boeing 767-300 | Dinner
+2019-7-15,14:25,8:15am,8:10pm,Delta,6h 55m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 26,Airbus A340-600 | Lunch
+2019-7-15,14:25,8:15am,8:10pm,Virgin Atlantic,7h 5m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 4371 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,14:25,10:00pm,10:05am,Delta,7h 10m,(Nonstop),"$1,540",Liberty Intl. (EWR),Heathrow (LHR),Virgin Atlantic 2,Airbus A330-300 | Dinner
+2019-7-15,14:25,11:00pm,11:10am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 3,Airbus A330-200 | Dinner
+2019-7-15,14:25,8:30pm,8:45am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 154,Airbus A340-600 | Dinner
+2019-7-15,14:25,9:00pm,9:15am,Virgin Atlantic,7h 15m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 46,Airbus A340-600 | Dinner
+2019-7-15,14:25,10:00pm,10:15am,Virgin Atlantic,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 10,Airbus A330-300 | Dinner
+2019-7-15,14:25,7:00pm,7:20am,Delta,7h 20m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 138,Airbus A330-300 | Dinner
+2019-7-15,14:25,7:30pm,7:50am,Virgin Atlantic,7h 25m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Delta 1,Airbus A330-200 | Dinner
+2019-7-15,14:25,6:00pm,6:25am,British Airways,7h 0m,(Nonstop),"$1,540",John F. Kennedy Intl. (JFK),Heathrow (LHR),Virgin Atlantic 4,Airbus A330-300 | Dinner
+2019-7-15,14:25,10:00pm,10:00am,Iberia,7h 0m,(Nonstop),"$1,550",John F. Kennedy Intl. (JFK),Gatwick (LGW),British Airways 2272,Boeing 777 | Meal
+2019-7-15,14:25,10:00pm,10:00am,Air France,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Gatwick (LGW),Iberia 7628 operated by British Airways,Boeing 777
+2019-7-15,14:25,8:15am,8:10pm,KLM,6h 55m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 9656 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,14:25,8:15am,8:10pm,Air France,7h 5m,(Nonstop),"$1,566",John F. Kennedy Intl. (JFK),Heathrow (LHR),KLM 4825 operated by Virgin Atlantic,Airbus A340-600 | Lunch
+2019-7-15,14:25,10:00pm,10:05am,KLM,7h 5m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),Air France 6751 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,14:25,10:00pm,10:05am,Air France,7h 10m,(Nonstop),"$1,566",Liberty Intl. (EWR),Heathrow (LHR),KLM 4819 operated by Virgin Atlantic,Airbus A330-300 | Dinner
+2019-7-15,14:25,11:00pm,11:10am,American Airlines,7h 0m,(Nonstop),"$1,640",John F. Kennedy Intl. (JFK),Heathrow (LHR),Air France 3662 operated by Delta,Airbus A330-200 | Dinner
+2019-7-15,14:25,10:00pm,10:00am,British Airways,6h 50m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Gatwick (LGW),American Airlines 6150 operated by British Airways,Boeing 777 | Meal
+2019-7-15,14:25,7:55am,7:45pm,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 178,Boeing 747-400 | Meal
+2019-7-15,14:25,6:30pm,6:30am,British Airways,7h 0m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 112,Boeing 747-400 | Meal
+2019-7-15,14:25,9:35pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 188,Boeing 787-8 | Meal
+2019-7-15,14:25,9:00pm,9:05am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 172,Boeing 747-400 | Meal
+2019-7-15,14:25,9:30pm,9:35am,British Airways,7h 5m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 114,Boeing 777 | Meal
+2019-7-15,14:25,11:00pm,11:05am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 182,Boeing 777 | Meal
+2019-7-15,14:25,6:05pm,6:15am,British Airways,7h 10m,(Nonstop),"$1,671",Liberty Intl. (EWR),Heathrow (LHR),British Airways 184,Boeing 777 | Meal
+2019-7-15,14:25,7:00pm,7:10am,British Airways,7h 10m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 174,Boeing 747-400 | Meal
+2019-7-15,14:25,8:10pm,8:20am,British Airways,7h 15m,(Nonstop),"$1,671",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 116,Boeing 747-400 | Meal
+2019-7-15,14:25,7:30pm,7:45am,Finnair,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),British Airways 176,Boeing 747-400 | Meal
+2019-7-15,14:25,7:55am,7:45pm,American Airlines,6h 50m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),Finnair 5478 operated by British Airways,Boeing 747-400 | Meal
+2019-7-15,14:25,10:20am,10:10pm,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 142,Boeing 777-200 | Lunch | Snack or Brunch
+2019-7-15,14:25,6:10pm,6:20am,American Airlines,7h 10m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 100,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,14:25,10:40pm,10:50am,American Airlines,7h 15m,(Nonstop),"$1,684",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 104,BOEING 777-300ER | Dinner | Breakfast
+2019-7-15,14:25,7:25pm,7:40am,United,7h 10m,(Nonstop),"$1,954",John F. Kennedy Intl. (JFK),Heathrow (LHR),American Airlines 106,Boeing 777-200 | Dinner | Breakfast
