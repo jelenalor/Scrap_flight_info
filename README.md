@@ -18,7 +18,11 @@ I run the program few times a day to build up the time series data about flight 
 Before running the code, set the folder called 'flights_data' in your file directory for files to get saved there <br>
 
 <br>
+
+
 **Dependencies** 
+
+
 <br>
 Selenium
 Chromedriver <br>
@@ -28,6 +32,8 @@ http://chromedriver.chromium.org/ <br>
 
 
 <br>
+
+
 **To run:** <br>
 
 *python scrap_flights.py -n 4 -t 10800*
